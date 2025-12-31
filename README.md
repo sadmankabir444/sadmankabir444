@@ -50,11 +50,21 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 ---
 
 ## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sadman-kabir&show_icons=true&theme=react&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-kabir&layout=compact&theme=react&hide_border=true"
+    height="165"
+  />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-kabir&theme=react&hide_border=true"
+  />
 </p>
+
