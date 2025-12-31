@@ -1,4 +1,7 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCswusuCIqed2n4AwOi1dLxiopkdfP97l9og&s
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="banner" />
+</p>
+
 
 # 👋 Hi, I'm Mohammad Fahim  
 ### 💻 Web Developer | Frontend Focused
