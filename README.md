@@ -43,9 +43,9 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: mohammadfahim.dev@gmail.com
-- 📱 Phone: +880XXXXXXXXXX
+- 💼 LinkedIn: https://www.linkedin.com/in/sadman-kabir-2219a5229/
+- 📧 Email: mdfahim00223@gmail.com
+- 📱 Phone: +8801402852440
 
 ---
 
