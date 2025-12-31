@@ -1,4 +1,4 @@
-![Banner]([YOUR_BANNER_IMAGE_LINK](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif))
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCswusuCIqed2n4AwOi1dLxiopkdfP97l9og&s
 
 # 👋 Hi, I'm Mohammad Fahim  
 ### 💻 Web Developer | Frontend Focused
